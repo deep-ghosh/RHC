@@ -1,14 +1,14 @@
-# Reflya - Mental Health Innovation Platform
+# Reflya - Mental Health Recovery Platform
 
 A modern, responsive landing page for Reflya, a mental health technology company specializing in early detection and treatment solutions.
 
 ## Features
 
-- 🧠 Modern React + TypeScript architecture
-- ⚡ Built with Vite and Bun for lightning-fast development
-- 🎨 Beautiful gradient designs and animations
-- 📱 Fully responsive design
-- 🔧 Modular component structure
+-  Modern React + TypeScript architecture
+-  Built with Vite and Bun for lightning-fast development
+-  Beautiful gradient designs and animations
+-  Fully responsive design
+-  Modular component structure
 
 ## Tech Stack
 
@@ -66,3 +66,11 @@ src/
 ## License
 
 © 2026 Reflya. All rights reserved.
+
+
+
+
+
+
+
+
